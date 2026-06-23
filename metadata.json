@@ -1,0 +1,10 @@
+{
+  "name": "AP Disha Safety App",
+  "description": "An Andhra Pradesh Disha safety system enabling real-time location sharing, automatic 10-second SOS audio/video recording, direct dispatch alerts to emergency contacts, and a seamless Citizen & Admin Dashboard system for real-time coordination and response.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
